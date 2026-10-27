@@ -33,6 +33,7 @@ El responsable funcional se registra en cada Issue. La asignación técnica de *
 - [Abrir listado de Issues](https://github.com/FGambaS/conecta-biblioteca/issues).
 - [Plan operativo y dependencias](03_seguimiento/plan_operativo.md).
 - [Protocolo de estados, prioridades, vistas y seguimiento](03_seguimiento/protocolo_gestion.md).
+- [Configuración práctica del GitHub Project existente](03_seguimiento/configuracion_project.md).
 - [Corte inicial de control del 27/10/2026](03_seguimiento/corte_inicial_271026.md).
 - [Matriz inicial de riesgos](03_seguimiento/matriz_riesgos.md).
 - [Registro de decisiones](03_seguimiento/decisiones.md).
