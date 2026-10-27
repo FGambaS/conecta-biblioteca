@@ -25,12 +25,12 @@ La cantidad de participantes, la cobertura esperada y las fechas calendario se d
 
 | Bloque | Referencia temporal | Actividades clave | Dependencias |
 | --- | --- | --- | --- |
-| Planeación y articulación | Mes 1 | [ACT-01](../issues/1), [ACT-02](../issues/2), [ACT-03](../issues/3), [ACT-04](../issues/4), [ACT-05](../issues/5), [ACT-06](../issues/6) | Alcance, diagnóstico, sedes |
-| Convocatoria y apertura | Transición mes 1-2 | [ACT-07](../issues/7) | Sedes y oferta formativa |
-| Primer ciclo | Meses 2-3 | [ACT-08](../issues/8) | Equipos, contenidos y convocatoria |
-| Segundo ciclo | Meses 3-4 | [ACT-09](../issues/9) | Primer ciclo y ajustes |
-| Monitoreo | Transversal | [ACT-10](../issues/10), [RIES-01](../issues/13), [VER-01](../issues/14) | Registro continuo |
-| Cierre | Mes 4 | [ACT-11](../issues/11), [ACT-12](../issues/12) | Registros verificados e informe |
+| Planeación y articulación | Mes 1 | [ACT-01](https://github.com/FGambaS/conecta-biblioteca/issues/1), [ACT-02](https://github.com/FGambaS/conecta-biblioteca/issues/2), [ACT-03](https://github.com/FGambaS/conecta-biblioteca/issues/3), [ACT-04](https://github.com/FGambaS/conecta-biblioteca/issues/4), [ACT-05](https://github.com/FGambaS/conecta-biblioteca/issues/5), [ACT-06](https://github.com/FGambaS/conecta-biblioteca/issues/6) | Alcance, diagnóstico, sedes |
+| Convocatoria y apertura | Transición mes 1-2 | [ACT-07](https://github.com/FGambaS/conecta-biblioteca/issues/7) | Sedes y oferta formativa |
+| Primer ciclo | Meses 2-3 | [ACT-08](https://github.com/FGambaS/conecta-biblioteca/issues/8) | Equipos, contenidos y convocatoria |
+| Segundo ciclo | Meses 3-4 | [ACT-09](https://github.com/FGambaS/conecta-biblioteca/issues/9) | Primer ciclo y ajustes |
+| Monitoreo | Transversal | [ACT-10](https://github.com/FGambaS/conecta-biblioteca/issues/10), [RIES-01](https://github.com/FGambaS/conecta-biblioteca/issues/13), [VER-01](https://github.com/FGambaS/conecta-biblioteca/issues/14) | Registro continuo |
+| Cierre | Mes 4 | [ACT-11](https://github.com/FGambaS/conecta-biblioteca/issues/11), [ACT-12](https://github.com/FGambaS/conecta-biblioteca/issues/12) | Registros verificados e informe |
 
 ## Funciones
 
