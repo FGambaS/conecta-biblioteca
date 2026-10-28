@@ -1,6 +1,6 @@
 # Conecta Biblioteca
 
-**Coordinación:** Fabián Gamba  
+**Coordinación:** Fabián Andrés Gamba Sánchez  
 **Horizonte:** piloto de cuatro meses  
 **Estructura de gestión:** repositorio documental + Issues + GitHub Project  
 **Autor del material:** Fabián A. Gamba-Sánchez
